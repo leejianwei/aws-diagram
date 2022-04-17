@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:42:44.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="eR-l9FAkIoyYiGg6Waq_" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T06:44:41.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="G--LF0dsb0F6Rqx48eXw" version="17.4.3" type="github">
   <diagram id="LcumRcBRr6USi84tn0P9" name="Page-1">
     <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,8 +87,8 @@
             <mxPoint x="716.4285714285713" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1oselqunodWBxak1BEi-21" value="Semantic Search POD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
-          <mxGeometry x="665" y="545" width="140" height="20" as="geometry" />
+        <mxCell id="V1oselqunodWBxak1BEi-21" value="Search App POD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
+          <mxGeometry x="680" y="545" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V1oselqunodWBxak1BEi-24" value="Corpus Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
           <mxGeometry x="30" y="480" width="80" height="20" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V1oselqunodWBxak1BEi-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" parent="1" vertex="1">
-          <mxGeometry x="990" y="447" width="63" height="70" as="geometry" />
+          <mxGeometry x="990" y="456" width="63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V1oselqunodWBxak1BEi-20" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="895" y="540" width="50" height="20" as="geometry" />
