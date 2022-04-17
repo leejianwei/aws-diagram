@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:52:29.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="SXAMc79Q5lZeYVyjba0b" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T06:54:00.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ZL_g5NWoX47cBWwomYoh" version="17.4.3" type="github">
   <diagram id="LcumRcBRr6USi84tn0P9" name="Page-1">
     <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,8 +42,8 @@
         <mxCell id="POhj-LKM1kwhmbA6X7bR-4" value="BERT Model" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
           <mxGeometry x="30" y="240" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="POhj-LKM1kwhmbA6X7bR-9" value="SageMaker Batch Job&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
-          <mxGeometry x="184" y="488.75" width="140" height="20" as="geometry" />
+        <mxCell id="POhj-LKM1kwhmbA6X7bR-9" value="Batch Job for History Data&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
+          <mxGeometry x="174" y="488.75" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E6e51qAAqDUREMfuk0sP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" edge="1" parent="bTGz799TzCsgq-tL2QBZ-2" source="POhj-LKM1kwhmbA6X7bR-10" target="V1oselqunodWBxak1BEi-7">
           <mxGeometry relative="1" as="geometry">
@@ -55,8 +55,8 @@
         <mxCell id="POhj-LKM1kwhmbA6X7bR-10" value="Amazon SageMaker" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sagemaker;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
           <mxGeometry x="214" y="90" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="POhj-LKM1kwhmbA6X7bR-12" value="SageMaker Endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
-          <mxGeometry x="84" y="150" width="130" height="20" as="geometry" />
+        <mxCell id="POhj-LKM1kwhmbA6X7bR-12" value="Endpoint for Interactive Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bTGz799TzCsgq-tL2QBZ-2" vertex="1">
+          <mxGeometry x="290" y="170" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V1oselqunodWBxak1BEi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="bTGz799TzCsgq-tL2QBZ-2" source="V1oselqunodWBxak1BEi-7" target="POhj-LKM1kwhmbA6X7bR-10" edge="1">
           <mxGeometry relative="1" as="geometry">
