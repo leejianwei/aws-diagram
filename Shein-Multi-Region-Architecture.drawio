@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T13:51:32.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vhXK2CJmk7CAq7EhI_LH" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T13:52:39.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="m3i5PF3gkNCi4CpaaOve" version="20.4.0" type="github">
   <diagram id="tQNOdVWaqfSVct5Hlhle" name="第 1 页">
     <mxGraphModel dx="1042" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,6 +22,14 @@
         <mxCell id="oWOzsEWmxyIAThikKH5z-40" value="数据门户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" vertex="1" parent="oWOzsEWmxyIAThikKH5z-3">
           <mxGeometry x="200" y="60" width="67" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="oWOzsEWmxyIAThikKH5z-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWOzsEWmxyIAThikKH5z-6" target="oWOzsEWmxyIAThikKH5z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWOzsEWmxyIAThikKH5z-43" value="数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWOzsEWmxyIAThikKH5z-42">
+          <mxGeometry x="0.2025" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oWOzsEWmxyIAThikKH5z-6" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="17" y="440" width="200" height="240" as="geometry" />
         </mxCell>
@@ -40,6 +48,14 @@
         <mxCell id="oWOzsEWmxyIAThikKH5z-36" value="数据门户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" vertex="1" parent="oWOzsEWmxyIAThikKH5z-6">
           <mxGeometry x="111.14" y="38" width="67" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="oWOzsEWmxyIAThikKH5z-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWOzsEWmxyIAThikKH5z-10" target="oWOzsEWmxyIAThikKH5z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWOzsEWmxyIAThikKH5z-47" value="数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWOzsEWmxyIAThikKH5z-46">
+          <mxGeometry x="-0.1186" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oWOzsEWmxyIAThikKH5z-10" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="440" width="200" height="240" as="geometry" />
         </mxCell>
@@ -57,6 +73,14 @@
         </mxCell>
         <mxCell id="oWOzsEWmxyIAThikKH5z-38" value="数据门户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" vertex="1" parent="oWOzsEWmxyIAThikKH5z-10">
           <mxGeometry x="113" y="30" width="67" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="oWOzsEWmxyIAThikKH5z-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWOzsEWmxyIAThikKH5z-19" target="oWOzsEWmxyIAThikKH5z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWOzsEWmxyIAThikKH5z-45" value="数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWOzsEWmxyIAThikKH5z-44">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oWOzsEWmxyIAThikKH5z-19" value="" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="296" y="440" width="230" height="240" as="geometry" />
