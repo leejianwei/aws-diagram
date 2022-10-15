@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T14:03:40.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g0EJX6-QYmZBnaiA5WWy" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T14:04:01.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bR2EQETyEaVfInHMvlKh" version="20.4.0" type="github">
   <diagram id="tQNOdVWaqfSVct5Hlhle" name="第 1 页">
     <mxGraphModel dx="992" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="320" y="480" width="42" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oWOzsEWmxyIAThikKH5z-35" value="&lt;ul style=&quot;caret-color: rgb(0, 0, 0); text-align: start; text-size-adjust: auto;&quot;&gt;&lt;li&gt;P1 用户数据，敏感信息数据，各区域本地存储&lt;/li&gt;&lt;li&gt;P1.5 非用户数据的重要数据，各区域本地存储且同步到一站式中央平台中&lt;/li&gt;&lt;li&gt;P2 公共数据，只存放中央平台，需要时再同步到各地数仓&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="17" y="720" width="450" height="80" as="geometry" />
+          <mxGeometry x="17" y="680" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oWOzsEWmxyIAThikKH5z-41" value="数据门户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" vertex="1" parent="1">
           <mxGeometry x="414" y="480" width="67" height="52" as="geometry" />
