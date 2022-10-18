@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T00:40:40.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CongHvYmnzx1m80HT4AB" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T00:51:17.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wO7a0O_cee5cF-okoZ_p" version="20.4.1" type="github">
   <diagram id="7owxcrfFW0S7-pzrNQvk" name="第 1 页">
     <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="449" y="160" width="61" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="svnaAes39MoYP9sl54ii-2" value="&lt;font color=&quot;#000000&quot;&gt;1. Inverted Index&lt;br&gt;2. BM25 Score&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="329" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
