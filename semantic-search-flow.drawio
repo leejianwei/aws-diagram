@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T01:05:13.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="cSXJEkCcuwKbbjlmAuYT" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:50:03.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4jsIR3lsczCNiZLZE4Wg" version="20.4.1" type="github">
   <diagram id="7owxcrfFW0S7-pzrNQvk" name="第 1 页">
     <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,22 +8,10 @@
           <mxGeometry x="10" y="160" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="489" y="90" width="261" height="200" as="geometry" />
+          <mxGeometry x="489" y="90" width="291" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-2" value="Result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="554" y="50" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-3" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;Do they work with xbox one?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="499" y="120" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-4" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;Can i use this for the xbox one&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="499" y="160" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-5" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;How do i use this headset with my xbox one?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="499" y="200" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-6" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;is this headset compatible with xbox 1S or above?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="499" y="240" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="240" y="155" width="50" height="45" as="geometry" />
@@ -40,8 +28,23 @@
         <mxCell id="JWPAntVHkyYhWTFEf0Qz-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/857/857523.png;" parent="1" vertex="1">
           <mxGeometry x="310" y="130" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="O1LVvi5rSVRDtbnGYtS4-1" value="&lt;font color=&quot;#000000&quot;&gt;1. Text to Vector with Semantic&amp;nbsp;&lt;br&gt;2. Vector Data Search&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+        <mxCell id="O1LVvi5rSVRDtbnGYtS4-1" value="&lt;font color=&quot;#000000&quot;&gt;1. Text to Vector with Semantic&amp;nbsp;&lt;br&gt;2. Vector Data Search&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;align=left;" parent="1" vertex="1">
           <mxGeometry x="290" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prKGgiOdG5UUHgARFlhj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="509.5" y="110" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-3" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;Do they work with xbox one?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="514" y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-4" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;Can i use this for the xbox one&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="514.5" y="160" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-5" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;How do i use this headset with my xbox one?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="514.5" y="200" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-6" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;is this headset compatible with xbox 1S or above?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="514.5" y="240" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
