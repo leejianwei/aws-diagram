@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T00:51:17.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wO7a0O_cee5cF-okoZ_p" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:46:16.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xJxeAphWp2w4n-p4T-Bq" version="20.4.1" type="github">
   <diagram id="7owxcrfFW0S7-pzrNQvk" name="第 1 页">
-    <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,16 @@
           <mxGeometry x="20" y="160" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="90" width="260" height="200" as="geometry" />
+          <mxGeometry x="530" y="90" width="270" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-2" value="Result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="590" y="50" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-3" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;Does this work for xbox&lt;/b&gt;&lt;/font&gt; one S?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="120" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-4" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Does it work&lt;/b&gt;&lt;/font&gt; for ps4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="160" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-5" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;does this work&lt;/font&gt; &lt;font color=&quot;#ff3333&quot;&gt;with&lt;/font&gt; &lt;/b&gt;pc&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="200" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_r8GeZ9NIP6kNEGULhSm-6" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;does&lt;/b&gt;&lt;/font&gt; it &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;work&lt;/b&gt; &lt;b&gt;with&lt;/b&gt;&lt;/font&gt; Lucent 6416D&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="240" width="240" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="250" y="155" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lx0EjMw_pZ4ZwAdQDto5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/235/235231.png;" parent="1" vertex="1">
           <mxGeometry x="329" y="125" width="110" height="110" as="geometry" />
@@ -40,8 +31,23 @@
         <mxCell id="_r8GeZ9NIP6kNEGULhSm-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="449" y="160" width="61" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="svnaAes39MoYP9sl54ii-2" value="&lt;font color=&quot;#000000&quot;&gt;1. Inverted Index&lt;br&gt;2. BM25 Score&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+        <mxCell id="svnaAes39MoYP9sl54ii-2" value="&lt;font color=&quot;#000000&quot;&gt;1. Inverted Index&lt;br&gt;2. BM25 Score&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;align=left;" parent="1" vertex="1">
           <mxGeometry x="329" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-3" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;Does this work for xbox&lt;/b&gt;&lt;/font&gt; one S?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="546" y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lx0EjMw_pZ4ZwAdQDto5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-4" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Does it work&lt;/b&gt;&lt;/font&gt; for ps4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="546" y="200" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-5" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;does this work&lt;/font&gt; &lt;font color=&quot;#ff3333&quot;&gt;with&lt;/font&gt; &lt;/b&gt;pc&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="546" y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_r8GeZ9NIP6kNEGULhSm-6" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: right; background-color: rgba(66, 165, 245, 0.2);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;does&lt;/b&gt;&lt;/font&gt; it &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;work&lt;/b&gt; &lt;b&gt;with&lt;/b&gt;&lt;/font&gt; Lucent 6416D&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="546" y="280" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
