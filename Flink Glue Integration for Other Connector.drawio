@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T10:03:16.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="raUbngK5RXor642DqCyu" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T10:29:56.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="x6uA-PRj_EGO4kS3MbWa" version="20.6.0" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,23 +16,41 @@
         <mxCell id="KQLKy6pS23xvt4txy2rW-2" value="RDS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
           <mxGeometry x="110" y="227.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="kUrOvLJshfsPBTCSwvpb-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="KQLKy6pS23xvt4txy2rW-3" target="kUrOvLJshfsPBTCSwvpb-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Z0oHal-M1tXMslsLTuqs-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="KQLKy6pS23xvt4txy2rW-3" target="Z0oHal-M1tXMslsLTuqs-1" edge="1">
+        <mxCell id="9ACBsl13mKWX81mxvQCY-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQLKy6pS23xvt4txy2rW-3" target="9ACBsl13mKWX81mxvQCY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KQLKy6pS23xvt4txy2rW-3" value="EMR Flink CDC" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.emr;" parent="1" vertex="1">
           <mxGeometry x="260" y="227.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="kUrOvLJshfsPBTCSwvpb-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kUrOvLJshfsPBTCSwvpb-1" target="DkJPr1J9yXdr6lBRk-ze-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kUrOvLJshfsPBTCSwvpb-1" value="Flink SQL&lt;br&gt;Kafka/Other Connector" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Z0oHal-M1tXMslsLTuqs-1" value="Kafka/Other" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" parent="1" vertex="1">
           <mxGeometry x="644" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACBsl13mKWX81mxvQCY-1" value="Hudi Flink Runntime" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="216.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACBsl13mKWX81mxvQCY-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ACBsl13mKWX81mxvQCY-3" target="Z0oHal-M1tXMslsLTuqs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACBsl13mKWX81mxvQCY-7" value="Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9ACBsl13mKWX81mxvQCY-6">
+          <mxGeometry x="-0.0578" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ACBsl13mKWX81mxvQCY-3" value="Flink SQL&lt;br&gt;Kafka Connector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="260" width="95" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrOvLJshfsPBTCSwvpb-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" parent="1" source="9ACBsl13mKWX81mxvQCY-3" target="DkJPr1J9yXdr6lBRk-ze-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="522" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ACBsl13mKWX81mxvQCY-5" value="Metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUrOvLJshfsPBTCSwvpb-3">
+          <mxGeometry x="0.0567" y="-22" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
