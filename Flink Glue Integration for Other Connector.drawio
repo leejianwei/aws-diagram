@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T10:00:31.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yl9Zsx-JeTn-N3ylOMhf" version="20.6.0" type="github"><diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">7Vlbd9o4EP41PCYH2xjCI7YhbUJOLrQbsi8cxRa2FtmisgCTX9+RLQffoGlC2+xuCDloRmNpNPPNN9i0DDtMzjlaBlfMw7Slt72kZTgtXdfaHR0+pGabacx2L1P4nHjKaKeYkCecX6m0K+LhuGQoGKOCLMtKl0URdkVJhzhnm7LZnNHyrkvk45pi4iJa194TTwSZ9kzv7fSfMPGDfGet289mQpQbq5PEAfLYpqAyhi3D5oyJbBQmNqYyeHlcsutGe2afHeM4Ei+5YDTU+vc8EMkQP7jfpp8v2kl0orKzRnSlDjy4n4DCpmzlKb/FNg9GvMDCladqtwyLrQQlEbafAy+VPkceAYdsRhkHXcQiuNYKREhB0mC4CYjAkyVy5ZobAA3o5iwSKvWanstqW7kqhG4px2HiS5Sdok3cOfU5Wy3TLT9D8htnZzCcuelRYBHB2QLnjrV048w8s/oduR2htOLwGnNBAAUDSny5tmByK6QkiudCrginIJE/TiXHaCvPm7bwUBxgTx2nnjmVTLkrTgoqlclzzEIs+BZM1GxXgUpVVV+Jmx1Ee3kFBQV4GrkhUmXhP6+8Qw4MFHiageQsLm64dtHfTj3epdbd4uQJn2g1IJ3Lkd52kEASUPBBmf8KSFVCCn8j6dc+qBWTCeYdR+8NBrX0K+NSWvKcj9EjpjcsJoKkuHpkQrDwh6BwwRfMy2D/EbBRvMwOOieJ9MNaMiJXGa5hsVgt0ox+iO7Mg6DOXBXZ4+DKLANLMxqQpdeB1Tt7O64i++n2r2tubBIqXPfr4GkdPuS4KiAGe0DQSmRcBMxnEaLDndaC0o+857TubMZMJiyN6T9YiK3KDFoJVk4bToiYFsYPcqlTU0lOolZOhW1BuMGcwLElCg4XesxW3FXnubwdX267y4luJGvREclW5/c5LwvEfSwO2BmZnYzJwfRyTJEg63JTe0uyDnldIIE7Z3K45FPAp36YFrwBbXb2b4KpLTWnutmgbNL16kqtbgYfWtMOVWWTrldXanUzKeVel5VNup5Z97h6tdZwtVa5Gt5vZNCULnswWZhzCIeFMiKMZCnVKRZeHavf1GHn6es98mwjp3Kc1WX2fcICsembBffi43CtppW5FlhUprjKtme/hm0XX/n1enwRB/P4xvpiTzbr5WNewD/Ftq/h1wicnebEKYUCw0pxR7GplHOsu+LrFEbam8jVqJNrYzS0P0Wuf7fZJ0RPrjQxvYppPP6y+ha/99ykUrUBNiSsEs2jZbAxZn+0Gxq1bji8ugPFCBh6Ib8SO/ZHb/wX9cZ+x3RG+s/1RnNgtC3zf9MbcciP0xurN7jvoDcar+DfEv+9goxfxJCHeleRIQ/dt//+HnfI6wJl5mQ5uR239C6Vj10eOYx8ObpE8wWCja5FAKgHRs1KG0qsmqrdLeG+Z1AvifrL8dvRK/fR3fp9tKY3PKHpHuEBzf5WWAptJXofneijE/13OlGIIuRjbwanxSgkkT+bMz5bpJDPK7xWzg1Fv/9JWadTqnCjocKP1J9A3P1MkM4Vfmwxht8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-12T10:02:27.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PEQ5q6Vv6aieCq4IxCLe" version="20.6.0" type="github">
+  <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
+    <mxGraphModel dx="1042" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FE19WrhtxEeYcqXIJ0xn-2" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="710" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="DkJPr1J9yXdr6lBRk-ze-1" value="Glue Data Catalog" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.glue_data_catalog;" parent="1" vertex="1">
+          <mxGeometry x="650" y="130" width="72" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzQVOr3wxltccUAzvmY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KQLKy6pS23xvt4txy2rW-2" target="KQLKy6pS23xvt4txy2rW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQLKy6pS23xvt4txy2rW-2" value="RDS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
+          <mxGeometry x="110" y="227.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrOvLJshfsPBTCSwvpb-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="KQLKy6pS23xvt4txy2rW-3" target="kUrOvLJshfsPBTCSwvpb-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0oHal-M1tXMslsLTuqs-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="KQLKy6pS23xvt4txy2rW-3" target="Z0oHal-M1tXMslsLTuqs-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQLKy6pS23xvt4txy2rW-3" value="EMR Flink CDC" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.emr;" parent="1" vertex="1">
+          <mxGeometry x="260" y="227.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrOvLJshfsPBTCSwvpb-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kUrOvLJshfsPBTCSwvpb-1" target="DkJPr1J9yXdr6lBRk-ze-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrOvLJshfsPBTCSwvpb-1" value="Flink SQL&lt;br&gt;Kafka/Other Connector" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0oHal-M1tXMslsLTuqs-1" value="Kafka/Other" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" parent="1" vertex="1">
+          <mxGeometry x="644" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
