@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T05:02:45.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NWTptJSCw0MYyOR_Ukm3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T09:46:03.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="78UqQUNovMC1uBrO77Vi" version="20.6.0" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1042" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="kUrOvLJshfsPBTCSwvpb-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kUrOvLJshfsPBTCSwvpb-1" target="DkJPr1J9yXdr6lBRk-ze-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kUrOvLJshfsPBTCSwvpb-1" value="Flink SQL &lt;br&gt;Hive Connector" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kUrOvLJshfsPBTCSwvpb-1" value="Hudi Glue Catalog" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iyVDirLnrr9Zhz3C58IK-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hudi.apache.org/assets/images/hudi.png;" parent="1" vertex="1">
