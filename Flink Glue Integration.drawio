@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T13:31:58.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DPTkg-Zjn3Lbhk5nCSTT" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T13:32:51.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7B6QRBs6AgC4WnLiymRb" version="20.7.4" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FE19WrhtxEeYcqXIJ0xn-2" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="90" width="940" height="550" as="geometry" />
+          <mxGeometry x="60" y="90" width="900" height="550" as="geometry" />
         </mxCell>
         <mxCell id="ygeJwO_-llUcF5Xlst-1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="190" height="460" as="geometry" />
@@ -21,15 +21,7 @@
         </mxCell>
         <mxCell id="ygeJwO_-llUcF5Xlst-1-4" value="metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ygeJwO_-llUcF5Xlst-1-2">
           <mxGeometry x="-0.2423" y="-2" relative="1" as="geometry">
-            <mxPoint x="-29" y="-41" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ygeJwO_-llUcF5Xlst-1-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="DkJPr1J9yXdr6lBRk-ze-1" target="rGtyrS7ArSFbjT5xo-QV-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ygeJwO_-llUcF5Xlst-1-6" value="metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ygeJwO_-llUcF5Xlst-1-5">
-          <mxGeometry x="0.1379" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-39" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nCzQVOr3wxltccUAzvmY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KQLKy6pS23xvt4txy2rW-2" target="KQLKy6pS23xvt4txy2rW-3" edge="1">
@@ -90,6 +82,14 @@
         </mxCell>
         <mxCell id="ygeJwO_-llUcF5Xlst-1-14" value="Processing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ygeJwO_-llUcF5Xlst-1-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="DkJPr1J9yXdr6lBRk-ze-1" target="rGtyrS7ArSFbjT5xo-QV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ygeJwO_-llUcF5Xlst-1-30" value="metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ygeJwO_-llUcF5Xlst-1-29">
+          <mxGeometry x="0.2327" y="-6" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DkJPr1J9yXdr6lBRk-ze-1" value="AWS Glue &lt;br&gt;Data Catalog" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.glue_data_catalog;" parent="1" vertex="1">
           <mxGeometry x="490" y="230" width="72" height="78" as="geometry" />
