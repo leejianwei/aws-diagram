@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T14:16:33.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="t9AMND3Gtq8eglAHr35v" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-24T14:17:23.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="gGjdHsVjwBYyI5VlUx0s" type="github">
   <diagram id="6fCkQnfvTHWw5Nz4_dTc" name="Page-1">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,16 +141,16 @@
           <mxGeometry x="37.5" y="460" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-46" value="KafkaDynamicTableFactory" style="rounded=1;whiteSpace=wrap;fontColor=default;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244" y="410" width="170" height="30" as="geometry" />
+          <mxGeometry x="244" y="410" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-47" value="KinesisDynamicTableFactory" style="rounded=1;whiteSpace=wrap;fontColor=default;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244" y="460" width="170" height="30" as="geometry" />
+          <mxGeometry x="244" y="460" width="196" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8L1h696zqM6Jr5x79oPo-48" value="HiveDynamicTableFactory" style="rounded=1;whiteSpace=wrap;fontColor=default;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="8L1h696zqM6Jr5x79oPo-48" value="HBase2DynamicTableFactory" style="rounded=1;whiteSpace=wrap;fontColor=default;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="510" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8L1h696zqM6Jr5x79oPo-49" value="HiveDynamicTableFactory" style="rounded=1;whiteSpace=wrap;fontColor=default;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244" y="510" width="170" height="30" as="geometry" />
+        <mxCell id="8L1h696zqM6Jr5x79oPo-49" value="Elasticsearch7DynamicSinkFactory" style="rounded=1;whiteSpace=wrap;fontColor=default;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="510" width="196" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
