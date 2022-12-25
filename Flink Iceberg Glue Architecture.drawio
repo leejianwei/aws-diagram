@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T08:55:30.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vt0EAJTwnWVKao8c-3wh" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T09:09:04.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dbvF5wL5oklPpO4ptfE_" version="20.7.4" type="github">
   <diagram id="6fCkQnfvTHWw5Nz4_dTc" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,13 +125,13 @@
           <mxGeometry x="30" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AQaz5W7iAk5SUsFatGqs-3" value="FlinkCatalog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="634" y="345" width="100" height="35" as="geometry" />
+          <mxGeometry x="580" y="330" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="AQaz5W7iAk5SUsFatGqs-5" value="Iceberg Catalog" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="320.25" width="100" height="29.75" as="geometry" />
         </mxCell>
         <mxCell id="AQaz5W7iAk5SUsFatGqs-7" value="Catalog&lt;br&gt;(Iceberg)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="64" height="44.25" as="geometry" />
+          <mxGeometry x="475" y="410" width="64" height="44.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
