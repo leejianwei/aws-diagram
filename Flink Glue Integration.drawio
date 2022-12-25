@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T13:42:26.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hWzIAh0UValIAZ7iq6I5" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T13:42:59.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CXcTCu0GpkS4MfWPU3_v" version="20.7.4" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="i2x8u8YBh84d5i1WgbNd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="260" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ygeJwO_-llUcF5Xlst-1-45" value="Flink Hudi&lt;br&gt;&amp;nbsp;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="ygeJwO_-llUcF5Xlst-1-45" value="Flink Hudi&lt;br&gt;&amp;nbsp;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="440" y="470" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2x8u8YBh84d5i1WgbNd-2" value="Catalog for non Iceberg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -121,7 +121,7 @@
         <mxCell id="i2x8u8YBh84d5i1WgbNd-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ygeJwO_-llUcF5Xlst-1-39" target="ygeJwO_-llUcF5Xlst-1-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygeJwO_-llUcF5Xlst-1-39" value="Flink CDC&lt;br&gt;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+        <mxCell id="ygeJwO_-llUcF5Xlst-1-39" value="Flink CDC&lt;br&gt;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="320" y="428.13" width="70" height="46" as="geometry" />
         </mxCell>
         <mxCell id="i2x8u8YBh84d5i1WgbNd-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="i2x8u8YBh84d5i1WgbNd-4" target="nCzQVOr3wxltccUAzvmY-3">
@@ -132,7 +132,7 @@
             <mxPoint x="20" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i2x8u8YBh84d5i1WgbNd-4" value="Flink Iceberg Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="i2x8u8YBh84d5i1WgbNd-4" value="Flink Iceberg Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="440.5" y="362" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2x8u8YBh84d5i1WgbNd-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=1;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;curved=1;" edge="1" parent="1" source="ygeJwO_-llUcF5Xlst-1-36" target="ygeJwO_-llUcF5Xlst-1-39">
