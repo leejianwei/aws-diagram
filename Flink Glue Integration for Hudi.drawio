@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T02:56:50.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZrdiFvmq0WeUck_jZHFq" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T02:57:02.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UM24BudDFHthccdfLXCB" version="20.7.4" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
           <mxGeometry x="443" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xpssuqTl0ZAJrpvMmWSd-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hudi.apache.org/assets/images/hudi.png;" vertex="1" parent="1">
-          <mxGeometry x="620" y="399" width="66.67" height="20" as="geometry" />
+          <mxGeometry x="620" y="540" width="66.67" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
