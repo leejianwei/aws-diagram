@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T05:32:40.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lEOOZ-gF452HKzETNrv4" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T05:33:54.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uUJHzdR6A_QgIpNzQq3j" version="20.7.4" type="github">
   <diagram id="6fCkQnfvTHWw5Nz4_dTc" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,10 +191,10 @@
         <mxCell id="KpupGjZTtVKZ5hBgc7F7-2" value="FileSystemTableSink" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="102" y="484.25" width="125.25" height="35.75" as="geometry" />
         </mxCell>
-        <mxCell id="KpupGjZTtVKZ5hBgc7F7-5" value="FileSystemTableSink" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="KpupGjZTtVKZ5hBgc7F7-5" value="KafkaDynamicSource" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="230" y="526.5" width="125.25" height="35.75" as="geometry" />
         </mxCell>
-        <mxCell id="KpupGjZTtVKZ5hBgc7F7-6" value="FileSystemTableSource" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="KpupGjZTtVKZ5hBgc7F7-6" value="KafkaDynamicSink" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="480" width="128.5" height="35.75" as="geometry" />
         </mxCell>
       </root>
