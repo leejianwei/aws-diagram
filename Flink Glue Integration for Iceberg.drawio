@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T14:00:26.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="I-Yd10WSTpyC4jH9NDDT" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T02:32:13.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HMn7tQPsy2UVT5Zsv1Ku" version="20.7.4" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,10 +100,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iWle3xQhp5_1chdFoBKP-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="430" y="220" width="140" height="124" as="geometry" />
+          <mxGeometry x="390" y="220" width="180" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="iWle3xQhp5_1chdFoBKP-28" value="Catalog for&lt;br&gt;Iceberg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="443" y="262" width="110" height="40" as="geometry" />
+        <mxCell id="iWle3xQhp5_1chdFoBKP-28" value="Catalog for&lt;br&gt;Hive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="435" y="247" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWle3xQhp5_1chdFoBKP-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="310" y="380" width="260" height="190" as="geometry" />
@@ -125,6 +125,15 @@
         </mxCell>
         <mxCell id="iWle3xQhp5_1chdFoBKP-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;dashed=1;" parent="1" source="iWle3xQhp5_1chdFoBKP-28" target="iWle3xQhp5_1chdFoBKP-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCLZu8Ytae7d9h3RZlWM-1" value="Catalog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FCLZu8Ytae7d9h3RZlWM-2" value="Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FCLZu8Ytae7d9h3RZlWM-3" value="Catalog for&lt;br&gt;Iceberg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="435" y="300" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
