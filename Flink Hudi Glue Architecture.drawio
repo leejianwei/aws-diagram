@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T03:41:16.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zlpeRDln8FtV-lYVsR3l" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T03:41:43.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WZRAAsLYDUcTRPcmvp6b" version="20.7.4" type="github">
   <diagram id="6fCkQnfvTHWw5Nz4_dTc" name="Page-1">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,13 +44,13 @@
           <mxGeometry x="20" y="100" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-23" value="Hive Metastore" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontColor=none;" parent="1" vertex="1">
-          <mxGeometry x="924.46" y="303.75" width="54" height="60" as="geometry" />
+          <mxGeometry x="924.46" y="352.5" width="54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-32" value="AWS Glue &lt;br&gt;Data Catalog" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.glue_data_catalog;" parent="1" vertex="1">
-          <mxGeometry x="924.46" y="428.75" width="48.46" height="52.5" as="geometry" />
+          <mxGeometry x="924.46" y="477.5" width="48.46" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hive.apache.org/images/hive_logo_medium.jpg;" parent="1" vertex="1">
-          <mxGeometry x="930" y="274.47" width="44" height="40.53" as="geometry" />
+          <mxGeometry x="929.46" y="325" width="44" height="40.53" as="geometry" />
         </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;dashed=1;endArrow=block;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8L1h696zqM6Jr5x79oPo-44" target="8L1h696zqM6Jr5x79oPo-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -143,19 +143,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-2" value="IMetaStoreClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="587.5" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="587.5" y="428.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIoTc1x799j-qXtxJ-b7-3" target="8L1h696zqM6Jr5x79oPo-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-3" value="AWSCatalog&lt;br&gt;MetastoreClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="734" y="410" width="130" height="40" as="geometry" />
+          <mxGeometry x="734" y="458.75" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-4" value="Hive&lt;br&gt;MetaStoreClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="734" y="340" width="130" height="40" as="geometry" />
+          <mxGeometry x="734" y="388.75" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-9" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905.69" y="229.75" width="86" height="30" as="geometry" />
+          <mxGeometry x="905.69" y="262.25" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EIoTc1x799j-qXtxJ-b7-11" target="8L1h696zqM6Jr5x79oPo-68">
           <mxGeometry relative="1" as="geometry">
