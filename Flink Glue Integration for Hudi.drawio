@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T02:38:50.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jTTDIkdRYqrQ3GAWwhdf" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T02:56:50.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZrdiFvmq0WeUck_jZHFq" version="20.7.4" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="p-IA0xXEfbXuH0E2RTc1-41" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;curved=1;" parent="1" source="p-IA0xXEfbXuH0E2RTc1-32" target="p-IA0xXEfbXuH0E2RTc1-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cfmlO-W1WEwU-Trc5lnm-1" value="metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p-IA0xXEfbXuH0E2RTc1-41">
+        <mxCell id="cfmlO-W1WEwU-Trc5lnm-1" value="metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p-IA0xXEfbXuH0E2RTc1-41" vertex="1" connectable="0">
           <mxGeometry x="0.0802" relative="1" as="geometry">
             <mxPoint x="-9" y="20" as="offset" />
           </mxGeometry>
@@ -135,7 +135,7 @@
         <mxCell id="p-IA0xXEfbXuH0E2RTc1-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;startArrow=classic;startFill=1;" parent="1" source="p-IA0xXEfbXuH0E2RTc1-30" target="p-IA0xXEfbXuH0E2RTc1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cfmlO-W1WEwU-Trc5lnm-3" value="data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p-IA0xXEfbXuH0E2RTc1-39">
+        <mxCell id="cfmlO-W1WEwU-Trc5lnm-3" value="data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p-IA0xXEfbXuH0E2RTc1-39" vertex="1" connectable="0">
           <mxGeometry x="0.0072" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -149,11 +149,14 @@
         <mxCell id="1v09oZFCCwroGa9Er5zX-5" value="metadata" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" parent="1" source="1v09oZFCCwroGa9Er5zX-3" target="p-IA0xXEfbXuH0E2RTc1-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cfmlO-W1WEwU-Trc5lnm-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="1v09oZFCCwroGa9Er5zX-3" target="p-IA0xXEfbXuH0E2RTc1-14">
+        <mxCell id="cfmlO-W1WEwU-Trc5lnm-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;" parent="1" source="1v09oZFCCwroGa9Er5zX-3" target="p-IA0xXEfbXuH0E2RTc1-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1v09oZFCCwroGa9Er5zX-3" value="Catalog for Hudi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="443" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xpssuqTl0ZAJrpvMmWSd-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hudi.apache.org/assets/images/hudi.png;" vertex="1" parent="1">
+          <mxGeometry x="620" y="399" width="66.67" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
