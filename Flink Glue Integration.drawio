@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T02:53:18.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zu__1479ilj7zMTA5p8s" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T05:07:52.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9XDgXnEZKVkaTgFx9pKN" version="20.7.4" type="github">
   <diagram id="Cd5y1kNHd57_tZJnAyKG" name="Page-1">
-    <mxGraphModel dx="1105" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,13 +101,13 @@
         <mxCell id="i2x8u8YBh84d5i1WgbNd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="310" y="400" width="260" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ygeJwO_-llUcF5Xlst-1-45" value="Flink Hudi&lt;br&gt;&amp;nbsp;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="440" y="500" width="115" height="60" as="geometry" />
+        <mxCell id="ygeJwO_-llUcF5Xlst-1-45" value="Flink Hive&lt;br&gt;&amp;nbsp;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="440" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i2x8u8YBh84d5i1WgbNd-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;fontColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="i2x8u8YBh84d5i1WgbNd-2" target="DkJPr1J9yXdr6lBRk-ze-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-10" value="metadta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i2x8u8YBh84d5i1WgbNd-16">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-10" value="metadta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i2x8u8YBh84d5i1WgbNd-16" vertex="1" connectable="0">
           <mxGeometry x="0.0153" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2x8u8YBh84d5i1WgbNd-4" value="Flink Iceberg Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="440.5" y="409" width="115" height="60" as="geometry" />
+          <mxGeometry x="440.5" y="409" width="119.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="i2x8u8YBh84d5i1WgbNd-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=1;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;curved=1;" parent="1" source="ygeJwO_-llUcF5Xlst-1-36" target="ygeJwO_-llUcF5Xlst-1-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +136,7 @@
         <mxCell id="nCzQVOr3wxltccUAzvmY-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;startArrow=classic;startFill=1;" parent="1" source="ygeJwO_-llUcF5Xlst-1-45" target="nCzQVOr3wxltccUAzvmY-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-9" value="data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nCzQVOr3wxltccUAzvmY-5">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-9" value="data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nCzQVOr3wxltccUAzvmY-5" vertex="1" connectable="0">
           <mxGeometry x="0.2044" y="1" relative="1" as="geometry">
             <mxPoint x="-9" y="-17" as="offset" />
           </mxGeometry>
@@ -144,23 +144,26 @@
         <mxCell id="i2x8u8YBh84d5i1WgbNd-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;dashed=1;" parent="1" source="ygeJwO_-llUcF5Xlst-1-44" target="DkJPr1J9yXdr6lBRk-ze-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-1" value="Catalog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-1" value="Catalog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="390" y="200" width="67" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-2" value="Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-2" value="Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="311" y="400" width="67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-4" value="Catalog for Hive(other)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-4" value="Catalog for Hive(other)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="443" y="322" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="DkJPr1J9yXdr6lBRk-ze-1" target="MU4NG5zrOH-z8bqViDNB-4">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" parent="1" source="DkJPr1J9yXdr6lBRk-ze-1" target="MU4NG5zrOH-z8bqViDNB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MU4NG5zrOH-z8bqViDNB-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="i2x8u8YBh84d5i1WgbNd-3" target="i2x8u8YBh84d5i1WgbNd-1">
+        <mxCell id="MU4NG5zrOH-z8bqViDNB-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="i2x8u8YBh84d5i1WgbNd-3" target="i2x8u8YBh84d5i1WgbNd-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="410" as="sourcePoint" />
             <mxPoint x="610" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fYfkqkwzCHlJUsIyV8Zf-1" value="Flink Hudi&lt;br&gt;&amp;nbsp;Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="438.25" y="463.13" width="119.5" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
