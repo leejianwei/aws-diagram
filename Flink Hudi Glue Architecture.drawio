@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T03:31:38.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="169S_5CwHvOPdGt4rOz9" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T03:32:43.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dAI53Ig_Mhf1jpLz06VY" version="20.7.4" type="github">
   <diagram id="6fCkQnfvTHWw5Nz4_dTc" name="Page-1">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,8 +100,11 @@
         <mxCell id="AQaz5W7iAk5SUsFatGqs-2" value="Hudi Connector" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="360" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EIoTc1x799j-qXtxJ-b7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQaz5W7iAk5SUsFatGqs-3" target="EIoTc1x799j-qXtxJ-b7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AQaz5W7iAk5SUsFatGqs-3" value="HoodieCatalog" style="rounded=1;whiteSpace=wrap;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="680" y="252.5" width="100" height="35" as="geometry" />
+          <mxGeometry x="700" y="259.75" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="AQaz5W7iAk5SUsFatGqs-5" value="Hudi Catalog" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="240" width="100" height="29.75" as="geometry" />
@@ -147,6 +150,9 @@
         </mxCell>
         <mxCell id="EIoTc1x799j-qXtxJ-b7-4" value="Hive&lt;br&gt;MetaStoreClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="734" y="340" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIoTc1x799j-qXtxJ-b7-9" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905.69" y="229.75" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
