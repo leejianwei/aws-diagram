@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T05:36:12.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QBuyIsnTBe94vTwW3xgS" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T05:36:46.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8REfJxhmlikB-F42HKgU" version="20.7.4" type="github">
   <diagram id="6fCkQnfvTHWw5Nz4_dTc" name="Page-1">
     <mxGraphModel dx="1050" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,6 +166,14 @@
         <mxCell id="8L1h696zqM6Jr5x79oPo-68" value="Amazon S3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="83.5" y="640" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="KpupGjZTtVKZ5hBgc7F7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="8L1h696zqM6Jr5x79oPo-69" target="KpupGjZTtVKZ5hBgc7F7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpupGjZTtVKZ5hBgc7F7-18" value="read" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KpupGjZTtVKZ5hBgc7F7-17">
+          <mxGeometry x="0.1145" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8L1h696zqM6Jr5x79oPo-69" value="Managed Streaming for Kafka" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="303" y="640" width="78" height="78" as="geometry" />
         </mxCell>
@@ -220,6 +228,14 @@
         </mxCell>
         <mxCell id="KpupGjZTtVKZ5hBgc7F7-5" value="KafkaDynamicSource" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="230" y="526.5" width="125.25" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KpupGjZTtVKZ5hBgc7F7-16" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KpupGjZTtVKZ5hBgc7F7-6" target="8L1h696zqM6Jr5x79oPo-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="600" />
+              <mxPoint x="362" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KpupGjZTtVKZ5hBgc7F7-6" value="KafkaDynamicSink" style="rounded=1;whiteSpace=wrap;strokeColor=#d79b00;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="310.5" y="480" width="128.5" height="35.75" as="geometry" />
